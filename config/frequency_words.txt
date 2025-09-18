@@ -11,6 +11,12 @@ DeepSeek
 大疆
 DJI
 
+人工智能
+AI
+!gai
+!培训
+!广告
+
 华为
 鸿蒙
 HarmonyOS
@@ -19,6 +25,7 @@ HarmonyOS
 灵犀
 稚晖君
 彭志辉
+
 特斯拉
 马斯克
 
@@ -76,10 +83,6 @@ ios
 字节
 bytedance
 张一鸣
-
-人工智能
-ai
-!gai
 
 自动驾驶
 
